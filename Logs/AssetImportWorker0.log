@@ -1,0 +1,371 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.28f1 (f5400f52e03f) revision 16072719'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19041) 64bit Professional' Language: 'en' Physical Memory: 65465 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+D:\Unity\Hub\Editor\2020.3.28f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Unity Projects/Jean-Luc_Picard_Quarters
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56919
+Successfully changed project path to: D:/Unity Projects/Jean-Luc_Picard_Quarters
+D:/Unity Projects/Jean-Luc_Picard_Quarters
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 85.19 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.28f1 (f5400f52e03f)
+[Subsystems] Discovering subsystems at path D:/Unity/Hub/Editor/2020.3.28f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Unity Projects/Jean-Luc_Picard_Quarters/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2070 SUPER (ID=0x1e84)
+    Vendor:   
+    VRAM:     8011 MB
+    Driver:   30.0.14.9709
+Initialize mono
+Mono path[0] = 'D:/Unity/Hub/Editor/2020.3.28f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Unity/Hub/Editor/2020.3.28f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Unity/Hub/Editor/2020.3.28f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56324
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Unity/Hub/Editor/2020.3.28f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.000951 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 86.16 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.514 seconds
+Domain Reload Profiling:
+	ReloadAssembly (514ms)
+		BeginReloadAssembly (47ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (411ms)
+			LoadAssemblies (47ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (122ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (24ms)
+			SetupLoadedEditorAssemblies (187ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (86ms)
+				BeforeProcessingInitializeOnLoad (13ms)
+				ProcessInitializeOnLoadAttributes (63ms)
+				ProcessInitializeOnLoadMethodAttributes (21ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003728 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 90.67 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.300 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1301ms)
+		BeginReloadAssembly (122ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (18ms)
+		EndReloadAssembly (1131ms)
+			LoadAssemblies (85ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (324ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (71ms)
+			SetupLoadedEditorAssemblies (557ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (91ms)
+				BeforeProcessingInitializeOnLoad (90ms)
+				ProcessInitializeOnLoadAttributes (252ms)
+				ProcessInitializeOnLoadMethodAttributes (119ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (4ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 1.07 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4589 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 255.7 MB.
+System memory in use after: 255.9 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 5057.
+Total: 4.390600 ms (FindLiveObjects: 0.440300 ms CreateObjectMapping: 0.122400 ms MarkObjects: 3.701200 ms  DeleteObjects: 0.125800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Packages/com.unity.probuilder/Content/Material/Checker.mat
+  artifactKey: Guid(4717b199010ca4cb3a8a7a465ec457d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Material/Checker.mat using Guid(4717b199010ca4cb3a8a7a465ec457d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4f18c50713b9ebc67a24ba7b5adacc3') in 0.581218 seconds 
+  Import took 0.589395 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.041772 seconds.
+  path: Packages/com.unity.probuilder/Content/Resources/Materials/FacePickerHDRP.mat
+  artifactKey: Guid(a53ef0dd76f2fe74eb5f43267d7c0195) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Resources/Materials/FacePickerHDRP.mat using Guid(a53ef0dd76f2fe74eb5f43267d7c0195) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e960869768afc9e01da22cfe5053759') in 0.029247 seconds 
+  Import took 0.036852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.574642 seconds.
+  path: Packages/com.unity.probuilder/Content/Resources/Materials/InvisibleFace.mat
+  artifactKey: Guid(978bbcf5050244f1b95128c04103f628) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Resources/Materials/InvisibleFace.mat using Guid(978bbcf5050244f1b95128c04103f628) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57e8e59eceeda1fec5804c6e266243d0') in 0.035595 seconds 
+  Import took 0.042926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Packages/com.unity.render-pipelines.high-definition/Runtime/RenderPipelineResources/Mesh/Sphere.fbx
+  artifactKey: Guid(9e0af751bc36ea146940ba245193e28c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.high-definition/Runtime/RenderPipelineResources/Mesh/Sphere.fbx using Guid(9e0af751bc36ea146940ba245193e28c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96b32c0bbfea4202e620ba293409433f') in 0.081481 seconds 
+  Import took 0.088438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/GameDevHQ/FileBase/3D/Props/Electronics/Scifi_Drone_01/Materials/Scifi Drone 01 Mat.mat
+  artifactKey: Guid(65bed4f6c71060545aa5fa3966e79be8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/3D/Props/Electronics/Scifi_Drone_01/Materials/Scifi Drone 01 Mat.mat using Guid(65bed4f6c71060545aa5fa3966e79be8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b126fdd54aa2d8bdf58dee2af3b29bf') in 0.050816 seconds 
+  Import took 0.057582 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/GameDevHQ/FileBase/3D/Environments/Sci-Fi/Scifi_Door_Double_01/Materials/Scifi_door_double_01.mat
+  artifactKey: Guid(678b3448383d24a25bfb024c9dd04072) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/3D/Environments/Sci-Fi/Scifi_Door_Double_01/Materials/Scifi_door_double_01.mat using Guid(678b3448383d24a25bfb024c9dd04072) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85a376cb8b86230e0453e7281086922b') in 0.028881 seconds 
+  Import took 0.036622 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Packages/com.unity.render-pipelines.high-definition/Runtime/RenderPipelineResources/Mesh/HumanEyeModel.fbx
+  artifactKey: Guid(bc7f614d61b9b2a49a9ca3530b20da5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.high-definition/Runtime/RenderPipelineResources/Mesh/HumanEyeModel.fbx using Guid(bc7f614d61b9b2a49a9ca3530b20da5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e6b6c6734110ecf129b0561bc7a63a5') in 0.035111 seconds 
+  Import took 0.041718 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Environments/Level_Design/Scifi_Hallway_02/Materials/Modular Dorm low_Dorms_1_Mat_AlbedoTransparency.mat
+  artifactKey: Guid(1f82c98746102445298c8436e832768f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Environments/Level_Design/Scifi_Hallway_02/Materials/Modular Dorm low_Dorms_1_Mat_AlbedoTransparency.mat using Guid(1f82c98746102445298c8436e832768f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5db561cee7d495e1c1e4d0163d68ca57') in 0.037007 seconds 
+  Import took 0.045228 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Packages/com.unity.probuilder/Content/Resources/Materials/ProBuilderDefault.mat
+  artifactKey: Guid(c22777d6e868e4f2fb421913386b154e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Resources/Materials/ProBuilderDefault.mat using Guid(c22777d6e868e4f2fb421913386b154e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d8c564ec2a453d33053cf44057b9d3f') in 0.020518 seconds 
+  Import took 0.027464 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Packages/com.unity.probuilder/Content/Resources/Materials/NoDraw.mat
+  artifactKey: Guid(8cb4d6fee77fd4ee6895f08b240d625f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Resources/Materials/NoDraw.mat using Guid(8cb4d6fee77fd4ee6895f08b240d625f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b6a3762e4ee6e592cf7383be8b13d40') in 0.043517 seconds 
+  Import took 0.050544 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Packages/com.unity.render-pipelines.high-definition/Runtime/RenderPipelineResources/Mesh/Disc.fbx
+  artifactKey: Guid(aa0197e8182e0924897ca6c14966b2d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.high-definition/Runtime/RenderPipelineResources/Mesh/Disc.fbx using Guid(aa0197e8182e0924897ca6c14966b2d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b187c40e9805c312890f081be766834f') in 0.035164 seconds 
+  Import took 0.042019 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Packages/com.unity.render-pipelines.high-definition/Runtime/RenderPipelineResources/Mesh/Cylinder.fbx
+  artifactKey: Guid(accb6d90f0d50fe4ca0f68159b4323de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.high-definition/Runtime/RenderPipelineResources/Mesh/Cylinder.fbx using Guid(accb6d90f0d50fe4ca0f68159b4323de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab6036da6529cdf1b06ccb771a427878') in 0.033323 seconds 
+  Import took 0.040424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Environments/Level_Design/Scifi_Hallway_02/Materials/Modular Dorm low_Dorms_2_Mat_AlbedoTransparency.mat
+  artifactKey: Guid(2c753481a263f4764a4b05a90222de6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Environments/Level_Design/Scifi_Hallway_02/Materials/Modular Dorm low_Dorms_2_Mat_AlbedoTransparency.mat using Guid(2c753481a263f4764a4b05a90222de6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b596f745ffd8495bd1871c84dba830ce') in 0.036287 seconds 
+  Import took 0.043191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Packages/com.unity.render-pipelines.high-definition/Runtime/RenderPipelineResources/Mesh/Quad.fbx
+  artifactKey: Guid(1d5a8595286f94f4bb54171d49f473c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.high-definition/Runtime/RenderPipelineResources/Mesh/Quad.fbx using Guid(1d5a8595286f94f4bb54171d49f473c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8641f514a741ae66c26c3c2f0b738d1') in 0.033254 seconds 
+  Import took 0.039350 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.037818 seconds.
+  path: Packages/com.unity.probuilder/Content/Resources/Materials/StandardVertexColorHDRP.mat
+  artifactKey: Guid(c35693c079f3840f7938a4a323096e84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Resources/Materials/StandardVertexColorHDRP.mat using Guid(c35693c079f3840f7938a4a323096e84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37e2331e7388eecb17ccc330872073cd') in 0.019437 seconds 
+  Import took 0.027034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Packages/com.unity.probuilder/Content/Resources/Materials/VertexPickerHDRP.mat
+  artifactKey: Guid(7d5c9fc287a2aa945a98203d41282923) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Resources/Materials/VertexPickerHDRP.mat using Guid(7d5c9fc287a2aa945a98203d41282923) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00b555033bd258206e5496bdfadbbd0b') in 0.017869 seconds 
+  Import took 0.025837 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Packages/com.unity.probuilder/Content/Resources/Materials/Trigger.mat
+  artifactKey: Guid(a1e97cbf2538241b691aae8243b5fb10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Resources/Materials/Trigger.mat using Guid(a1e97cbf2538241b691aae8243b5fb10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c1821f3665157868c2926f4c9feed40') in 0.022301 seconds 
+  Import took 0.029080 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Packages/com.unity.probuilder/Content/Resources/Materials/VertexPicker.mat
+  artifactKey: Guid(30a8575e1d4cc4e01a88ffbf4f973d80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Resources/Materials/VertexPicker.mat using Guid(30a8575e1d4cc4e01a88ffbf4f973d80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a287ec512cceaaf8cf4c876611d1f303') in 0.020127 seconds 
+  Import took 0.027994 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Project/Materials/white_plaster_02_diff_2k.mat
+  artifactKey: Guid(40551b33689e3ea45a93b60c1b18f1af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/Materials/white_plaster_02_diff_2k.mat using Guid(40551b33689e3ea45a93b60c1b18f1af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05bdd4f22a14a3c126b108dbb4565da7') in 0.023519 seconds 
+  Import took 0.029767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Project/Materials/white_plaster_02_diff_2k 1.mat
+  artifactKey: Guid(a911b5bb223e214409b30fa36ff5e71b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/Materials/white_plaster_02_diff_2k 1.mat using Guid(a911b5bb223e214409b30fa36ff5e71b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '686b7af2f13a3198c4dfa29a428a6891') in 0.036683 seconds 
+  Import took 0.043075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Packages/com.unity.probuilder/Content/Resources/Materials/StandardVertexColorLWRP.mat
+  artifactKey: Guid(077a003b1de1e4c35923be7a21b5d948) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Resources/Materials/StandardVertexColorLWRP.mat using Guid(077a003b1de1e4c35923be7a21b5d948) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd27d2912a56047a5ae71ec93b9451d06') in 0.019127 seconds 
+  Import took 0.026191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/GameDevHQ/FileBase/3D/Environments/Urban/Apartment_Interior_Walls_01/Materials/Wall_01a.mat
+  artifactKey: Guid(ddc322f4429e84c7a986f756e367b0c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/3D/Environments/Urban/Apartment_Interior_Walls_01/Materials/Wall_01a.mat using Guid(ddc322f4429e84c7a986f756e367b0c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a80f877f7a3d22c5a380064584e2612') in 0.034745 seconds 
+  Import took 0.041919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Packages/com.unity.probuilder/Content/Resources/Materials/UnlitVertexColor.mat
+  artifactKey: Guid(29966c3c0907b49b58c4e59342d020cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Resources/Materials/UnlitVertexColor.mat using Guid(29966c3c0907b49b58c4e59342d020cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d5cee2c59f87a66d333a6ecd81b3cf3') in 0.019457 seconds 
+  Import took 0.026041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/GameDevHQ/FileBase/3D/Environments/Sci-Fi/Scifi_Room_Wall_15-17/Materials/TexturesCom_Scifi_Floor_1K_albedo.mat
+  artifactKey: Guid(d22e51016dded4382a4712ea0676eea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/3D/Environments/Sci-Fi/Scifi_Room_Wall_15-17/Materials/TexturesCom_Scifi_Floor_1K_albedo.mat using Guid(d22e51016dded4382a4712ea0676eea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae34233f983dbec923e4d58c00859432') in 0.034144 seconds 
+  Import took 0.041369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Project/Materials/white_plaster_02_rough_2k.mat
+  artifactKey: Guid(e29762b226caf3f428386cde89ef1f9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/Materials/white_plaster_02_rough_2k.mat using Guid(e29762b226caf3f428386cde89ef1f9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7a9527719d767eba757dd8cb68a71eb') in 0.020881 seconds 
+  Import took 0.027754 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 167.318480 seconds.
+  path: Assets/GameDevHQ/FileBase/3D/Environments/Sci-Fi/Scifi_Columns_01_03
+  artifactKey: Guid(55f169625d5994d22b62f8870ffd71ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/3D/Environments/Sci-Fi/Scifi_Columns_01_03 using Guid(55f169625d5994d22b62f8870ffd71ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1551e1734f01a81797ec4cd8d604f211') in 0.002312 seconds 
+  Import took 0.010024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 213.716936 seconds.
+  path: Assets/GameDevHQ/FileBase/3D/Environments/Sci-Fi/Scifi_Columns_01_03/FBX/Scifi_Columns_02.fbx
+  artifactKey: Guid(a9869a2bcd06b4348b0bba10b6dcf06b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/3D/Environments/Sci-Fi/Scifi_Columns_01_03/FBX/Scifi_Columns_02.fbx using Guid(a9869a2bcd06b4348b0bba10b6dcf06b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e1823f18f620f27b62a30939a67c575') in 0.035322 seconds 
+  Import took 0.043283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.631450 seconds.
+  path: Assets/GameDevHQ/FileBase/3D/Environments/Sci-Fi/Scifi_Columns_01_03/FBX/Scifi_Columns_01.fbx
+  artifactKey: Guid(aecf4f7d7a98542039c5119b3b07e75a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/3D/Environments/Sci-Fi/Scifi_Columns_01_03/FBX/Scifi_Columns_01.fbx using Guid(aecf4f7d7a98542039c5119b3b07e75a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d8dfa47b55af69790b755321e6334f4') in 0.064642 seconds 
+  Import took 0.072415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.443138 seconds.
+  path: Assets/GameDevHQ/FileBase/3D/Environments/Sci-Fi/Scifi_Columns_01_03/FBX/Scifi_Columns_03.fbx
+  artifactKey: Guid(4c44bc78a1d464bc3b30eb070ef8a733) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/3D/Environments/Sci-Fi/Scifi_Columns_01_03/FBX/Scifi_Columns_03.fbx using Guid(4c44bc78a1d464bc3b30eb070ef8a733) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec33acbc0c42e0357a7eb57dba34bb5f') in 0.039798 seconds 
+  Import took 0.047623 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2213.195203 seconds.
+  path: Assets/Project/Prefabs/Room_Columns_01.prefab
+  artifactKey: Guid(bbb473fceb365f646a62dbf0d3fa6c42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/Prefabs/Room_Columns_01.prefab using Guid(bbb473fceb365f646a62dbf0d3fa6c42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9ea3022befeb89a8e2d4450467d5a00') in 0.030841 seconds 
+  Import took 0.038758 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
