@@ -98,7 +98,7 @@ PrefabInstance:
     - target: {fileID: -1504981713932161579, guid: a9869a2bcd06b4348b0bba10b6dcf06b, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 73c176f402d2c2f4d929aa5da7585d17, type: 2}
+      objectReference: {fileID: 2100000, guid: 38a4c7853fbc363498c56227b48a10f2, type: 2}
     - target: {fileID: -927199367670048503, guid: a9869a2bcd06b4348b0bba10b6dcf06b, type: 3}
       propertyPath: m_Name
       value: Scifi_Columns_02 (2)
@@ -176,7 +176,7 @@ PrefabInstance:
     - target: {fileID: -1504981713932161579, guid: a9869a2bcd06b4348b0bba10b6dcf06b, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 73c176f402d2c2f4d929aa5da7585d17, type: 2}
+      objectReference: {fileID: 2100000, guid: 38a4c7853fbc363498c56227b48a10f2, type: 2}
     - target: {fileID: -927199367670048503, guid: a9869a2bcd06b4348b0bba10b6dcf06b, type: 3}
       propertyPath: m_Name
       value: Scifi_Columns_02 (3)
