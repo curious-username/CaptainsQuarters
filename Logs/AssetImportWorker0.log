@@ -688,3 +688,147 @@ Received Import Request.
 Start importing Assets/GameDevHQ/FileBase/3D/Props/Furniture/Furniture_Pack_03/Materials/Furniture Pack 22 Mat.mat using Guid(a38dedcd83c7cdb46a828b2c6a84a706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9d591b738d098f96a4495c219c4428c') in 0.028570 seconds 
   Import took 0.036356 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 228.575214 seconds.
+  path: Assets/GameDevHQ/FileBase/3D/Props/Interior/Library_Assets_02/Fbx
+  artifactKey: Guid(cd5897f2ec282b84d80a5d786e5a7e99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/3D/Props/Interior/Library_Assets_02/Fbx using Guid(cd5897f2ec282b84d80a5d786e5a7e99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fa2a3dd8e431683b996979a70db3dcd') in 0.005041 seconds 
+  Import took 0.013023 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.658574 seconds.
+  path: Assets/GameDevHQ/FileBase/3D/Props/Tools/Potion_Pack_02/Fbx
+  artifactKey: Guid(cacc90925a9108447891e439a01d01e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/3D/Props/Tools/Potion_Pack_02/Fbx using Guid(cacc90925a9108447891e439a01d01e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9310be6174e61e1c0c90765da2543381') in 0.002335 seconds 
+  Import took 0.012813 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.264981 seconds.
+  path: Assets/GameDevHQ/FileBase/3D/Props/Tools/Potion_Pack_02/Materials
+  artifactKey: Guid(24217af056c2ffe42bf35943db3fe2c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/3D/Props/Tools/Potion_Pack_02/Materials using Guid(24217af056c2ffe42bf35943db3fe2c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '292c030b7fff27d88d8b29076fbcdf4a') in 0.001705 seconds 
+  Import took 0.008369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 137.920491 seconds.
+  path: Assets/GameDevHQ/FileBase/3D/Props/Furniture/Furniture_Pack_03
+  artifactKey: Guid(12c32ad25514af946805bc6c877ea9e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/3D/Props/Furniture/Furniture_Pack_03 using Guid(12c32ad25514af946805bc6c877ea9e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de871f277c99997d34945eb676806d09') in 0.001801 seconds 
+  Import took 0.009031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.667241 seconds.
+  path: Assets/GameDevHQ/FileBase/3D/Props/Furniture/Furniture_Pack_03/Fbx
+  artifactKey: Guid(70d0da2cecd5b8f448822b69858ee9b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/3D/Props/Furniture/Furniture_Pack_03/Fbx using Guid(70d0da2cecd5b8f448822b69858ee9b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3ccadaa02934027a54c8e59cc716190') in 0.001628 seconds 
+  Import took 0.008256 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.597051 seconds.
+  path: Assets/GameDevHQ/FileBase/3D/Props/Furniture/Furniture_Pack_03/Fbx/Cupboard_04.fbx
+  artifactKey: Guid(aa618a62920276c4f86cd76e0c1c7b60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/3D/Props/Furniture/Furniture_Pack_03/Fbx/Cupboard_04.fbx using Guid(aa618a62920276c4f86cd76e0c1c7b60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f64819e1fba94b91a836f54d482c8793') in 0.036945 seconds 
+  Import took 0.045483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.714954 seconds.
+  path: Assets/GameDevHQ/FileBase/3D/Props/Furniture/Furniture_Pack_03/Fbx/Cupboard_05.fbx
+  artifactKey: Guid(dcaeccc9d02a561489e3e4e51662c8b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/3D/Props/Furniture/Furniture_Pack_03/Fbx/Cupboard_05.fbx using Guid(dcaeccc9d02a561489e3e4e51662c8b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0d87d7f91e5394678dae151b1855c6e') in 0.039707 seconds 
+  Import took 0.047750 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.248841 seconds.
+  path: Assets/GameDevHQ/FileBase/3D/Props/Furniture/Furniture_Pack_03/Fbx/Cupboard_06.fbx
+  artifactKey: Guid(c1886d70b0207a243879009af82c8d3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/3D/Props/Furniture/Furniture_Pack_03/Fbx/Cupboard_06.fbx using Guid(c1886d70b0207a243879009af82c8d3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29b65fc1c7d11e603a22cf3ab587a2d6') in 0.033552 seconds 
+  Import took 0.042773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.038694 seconds.
+  path: Assets/GameDevHQ/FileBase/3D/Props/Furniture/Furniture_Pack_03/Fbx/Military_Table_01.fbx
+  artifactKey: Guid(420bc3fd9699a284c8837ca104e027e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/3D/Props/Furniture/Furniture_Pack_03/Fbx/Military_Table_01.fbx using Guid(420bc3fd9699a284c8837ca104e027e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc5f261f90c39a3ae0f4b6e76e009ffd') in 0.041930 seconds 
+  Import took 0.050080 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.592526 seconds.
+  path: Assets/GameDevHQ/FileBase/3D/Props/Furniture/Furniture_Pack_03/Fbx/Military_Drawers_01.fbx
+  artifactKey: Guid(83f0dd6b1741529469456ce545c6663b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/3D/Props/Furniture/Furniture_Pack_03/Fbx/Military_Drawers_01.fbx using Guid(83f0dd6b1741529469456ce545c6663b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca92fdc758ae99f0f5a4d1a9cc4e635a') in 0.168466 seconds 
+  Import took 0.176984 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 122.979031 seconds.
+  path: Assets/GameDevHQ/FileBase/3D/Characters/Animals/Fish_Pack_01/Materials
+  artifactKey: Guid(e4b66a8553cd50c4b90bb3c5465f4634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/3D/Characters/Animals/Fish_Pack_01/Materials using Guid(e4b66a8553cd50c4b90bb3c5465f4634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91bd420013989ec83189904bdff574e7') in 0.001968 seconds 
+  Import took 0.010302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.559131 seconds.
+  path: Assets/GameDevHQ/FileBase/3D/Environments/Sci-Fi/Scifi_Columns_01_03/FBX
+  artifactKey: Guid(eb0c0af773503469ab0a6912ecfa2acb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/3D/Environments/Sci-Fi/Scifi_Columns_01_03/FBX using Guid(eb0c0af773503469ab0a6912ecfa2acb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ca9118353c03a36401764335bb4350a') in 0.005407 seconds 
+  Import took 0.012758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.436811 seconds.
+  path: Assets/GameDevHQ/FileBase/3D/Characters/Humans/Man_05/FBX
+  artifactKey: Guid(ff9e79405ba01b44e90d99f530ec17ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/3D/Characters/Humans/Man_05/FBX using Guid(ff9e79405ba01b44e90d99f530ec17ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dbd9ae6400e0047ff4c16717142f8ca') in 0.001591 seconds 
+  Import took 0.008248 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.941197 seconds.
+  path: Assets/GameDevHQ/FileBase/3D/Characters/Humans/Man_05/tex
+  artifactKey: Guid(1adb06d52cda7f144b6bc98fa58db5cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/3D/Characters/Humans/Man_05/tex using Guid(1adb06d52cda7f144b6bc98fa58db5cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26f0cbfcc5c3fcb552b19fdbfb4e63a6') in 0.005187 seconds 
+  Import took 0.012716 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.599683 seconds.
+  path: Assets/GameDevHQ/FileBase/3D/Environments/Sci-Fi/Scifi_Direction_Signs_01
+  artifactKey: Guid(9bc15e98cf6cc4f38aa24052466e6373) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/3D/Environments/Sci-Fi/Scifi_Direction_Signs_01 using Guid(9bc15e98cf6cc4f38aa24052466e6373) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2835f5352e83aa8a571ada1b27d6effe') in 0.001876 seconds 
+  Import took 0.009708 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.985102 seconds.
+  path: Assets/GameDevHQ/FileBase/3D/Props/Electronics
+  artifactKey: Guid(865462e54a0db6842bb371c87d31525f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/3D/Props/Electronics using Guid(865462e54a0db6842bb371c87d31525f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59962351db300fe453a162204c1f5893') in 0.001784 seconds 
+  Import took 0.008913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 62.258881 seconds.
+  path: Assets/GameDevHQ/FileBase/3D/Props/Furniture/Kitchen_Stool_01
+  artifactKey: Guid(37124f88736be814e92d8074bf0e12c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/3D/Props/Furniture/Kitchen_Stool_01 using Guid(37124f88736be814e92d8074bf0e12c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2c4f1ce123cfe1886c12facf8de7dd8') in 0.002048 seconds 
+  Import took 0.009498 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.916510 seconds.
+  path: Assets/GameDevHQ/FileBase/3D/Props/Tools/Potion_Pack_02
+  artifactKey: Guid(25d7e393742cb7e43865b1c5210c0738) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/3D/Props/Tools/Potion_Pack_02 using Guid(25d7e393742cb7e43865b1c5210c0738) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '633587fefb17bd4581778e7c3552ba98') in 0.001804 seconds 
+  Import took 0.009309 seconds .
+
