@@ -632,3 +632,59 @@ Received Import Request.
 Start importing Assets/SampleSceneAssets/Meshes/Props/Lights/Prefab/Spotlight_Spot_01a_lamp.prefab using Guid(68bb41b3b9df36340a5082fd5ccc1a09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db65efaf17d733d5a4f9d9227b145391') in 0.033666 seconds 
   Import took 0.040354 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 5762.513206 seconds.
+  path: Assets/Project/Prefabs/Picard_Desk.prefab
+  artifactKey: Guid(71bcec4ddc03f904abf8826d84330f1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/Prefabs/Picard_Desk.prefab using Guid(71bcec4ddc03f904abf8826d84330f1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4166e03e34adddc437409c019cb9259') in 0.016208 seconds 
+  Import took 0.024442 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 90.121163 seconds.
+  path: Assets/GameDevHQ/FileBase/3D/Props/Furniture/Office_Chair_Desk
+  artifactKey: Guid(1cdc3c7431fb244568c60d783f3c2228) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/3D/Props/Furniture/Office_Chair_Desk using Guid(1cdc3c7431fb244568c60d783f3c2228) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19fd83cf85ce7af6dca1f8e8bb0afcdf') in 0.001767 seconds 
+  Import took 0.008994 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.498103 seconds.
+  path: Assets/GameDevHQ/FileBase/3D/Props/Furniture/Office_Chair_Desk/FBX/Classroom Chair.fbx
+  artifactKey: Guid(dd5c9475ef5c84385a53088932254e7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/3D/Props/Furniture/Office_Chair_Desk/FBX/Classroom Chair.fbx using Guid(dd5c9475ef5c84385a53088932254e7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f9ffad1479b09cbc8497af422ad4089') in 0.093157 seconds 
+  Import took 0.103434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.411089 seconds.
+  path: Assets/GameDevHQ/FileBase/3D/Props/Furniture/Office_Chair_Desk/FBX/Office Chair.fbx
+  artifactKey: Guid(5c6afac45735544c1a2c4388db291924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/3D/Props/Furniture/Office_Chair_Desk/FBX/Office Chair.fbx using Guid(5c6afac45735544c1a2c4388db291924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '342f2526dc02b1452fcd24265e3bea0a') in 0.046866 seconds 
+  Import took 0.055096 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 100.851417 seconds.
+  path: Assets/GameDevHQ/FileBase/3D/Props/Electronics/Computer_Pack_01/Materials/Equipments Pack 12 Mat.mat
+  artifactKey: Guid(cfc639de7cc1b8745b290ef1c6b0156d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/3D/Props/Electronics/Computer_Pack_01/Materials/Equipments Pack 12 Mat.mat using Guid(cfc639de7cc1b8745b290ef1c6b0156d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6cf6a1442d2b2dc3e4f51b7bc8921ae') in 0.029222 seconds 
+  Import took 0.037986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Project/Materials/Materials/GameDevHQ_Logo_mat.mat
+  artifactKey: Guid(709581da6b89089408cc77417722ca22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/Materials/Materials/GameDevHQ_Logo_mat.mat using Guid(709581da6b89089408cc77417722ca22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2e05afd380e6bd1133f89d16c412d80') in 0.023856 seconds 
+  Import took 0.030920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/GameDevHQ/FileBase/3D/Props/Furniture/Furniture_Pack_03/Materials/Furniture Pack 22 Mat.mat
+  artifactKey: Guid(a38dedcd83c7cdb46a828b2c6a84a706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/3D/Props/Furniture/Furniture_Pack_03/Materials/Furniture Pack 22 Mat.mat using Guid(a38dedcd83c7cdb46a828b2c6a84a706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9d591b738d098f96a4495c219c4428c') in 0.028570 seconds 
+  Import took 0.036356 seconds .
+
