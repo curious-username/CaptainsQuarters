@@ -15,10 +15,10 @@ MonoBehaviour:
   active: 0
   m_AdvancedMode: 0
   quality:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 2
   intensity:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 1
     min: 0
   maximumVelocity:
@@ -58,7 +58,7 @@ MonoBehaviour:
     min: 0
     max: 20
   m_SampleCount:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 12
     min: 2
 --- !u!114 &-2223948172287066284
@@ -84,7 +84,7 @@ MonoBehaviour:
     min: 0
   intensity:
     m_OverrideState: 1
-    m_Value: 0.281
+    m_Value: 0.2
     min: 0
     max: 1
   scatter:
@@ -93,16 +93,16 @@ MonoBehaviour:
     min: 0
     max: 1
   tint:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: {r: 1, g: 1, b: 1, a: 1}
     hdr: 0
     showAlpha: 0
     showEyeDropper: 1
   dirtTexture:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: {fileID: 0}
   dirtIntensity:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: 0
     min: 0
   anamorphic:
@@ -129,11 +129,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59b6606ef2548734bb6d11b9d160bc7e, type: 3}
   m_Name: HDRISky
   m_EditorClassIdentifier: 
-  active: 0
-  m_AdvancedMode: 0
+  active: 1
+  m_AdvancedMode: 1
   rotation:
-    m_OverrideState: 1
-    m_Value: 116
+    m_OverrideState: 0
+    m_Value: 1.6
     min: 0
     max: 360
   skyIntensityMode:
@@ -141,18 +141,18 @@ MonoBehaviour:
     m_Value: 0
   exposure:
     m_OverrideState: 1
-    m_Value: 13.5
+    m_Value: 8.34
   multiplier:
     m_OverrideState: 0
     m_Value: 1
     min: 0
   upperHemisphereLuxValue:
     m_OverrideState: 0
-    m_Value: 0.2351639
+    m_Value: 0.0038026227
     min: 0
   upperHemisphereLuxColor:
     m_OverrideState: 0
-    m_Value: {x: 0.28063992, y: 0.3801544, z: 0.5}
+    m_Value: {x: 0.46033362, y: 0.41919407, z: 0.5}
   desiredLuxValue:
     m_OverrideState: 1
     m_Value: 25000
@@ -168,10 +168,10 @@ MonoBehaviour:
     m_Value: 0
   hdriSky:
     m_OverrideState: 1
-    m_Value: {fileID: 8900000, guid: c49ef192a57a5af42a728163b2468c8a, type: 3}
+    m_Value: {fileID: 8900000, guid: 18ec2d52be8f4524a97c25a2ed27838e, type: 3}
   enableDistortion:
     m_OverrideState: 0
-    m_Value: 0
+    m_Value: 1
   procedural:
     m_OverrideState: 0
     m_Value: 1
@@ -264,7 +264,6 @@ MonoBehaviour:
   - {fileID: -3969488579639410846}
   - {fileID: 747098994415714109}
   - {fileID: 4566301752631259820}
-  - {fileID: 1012129397265764272}
 --- !u!114 &747098994415714109
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -277,14 +276,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5a6b00fcf518bb94a90b408492e07b44, type: 3}
   m_Name: FilmGrain
   m_EditorClassIdentifier: 
-  active: 0
+  active: 1
   m_AdvancedMode: 0
   type:
-    m_OverrideState: 0
-    m_Value: 9
-  intensity:
     m_OverrideState: 1
     m_Value: 0
+  intensity:
+    m_OverrideState: 1
+    m_Value: 0.2
     min: 0
     max: 1
   response:
@@ -295,66 +294,6 @@ MonoBehaviour:
   texture:
     m_OverrideState: 0
     m_Value: {fileID: 0}
---- !u!114 &1012129397265764272
-MonoBehaviour:
-  m_ObjectHideFlags: 3
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a7649d9368d3a5c4ab8ad01a63e04962, type: 3}
-  m_Name: ChannelMixer
-  m_EditorClassIdentifier: 
-  active: 1
-  m_AdvancedMode: 0
-  redOutRedIn:
-    m_OverrideState: 1
-    m_Value: 137
-    min: -200
-    max: 200
-  redOutGreenIn:
-    m_OverrideState: 1
-    m_Value: -23
-    min: -200
-    max: 200
-  redOutBlueIn:
-    m_OverrideState: 0
-    m_Value: 0
-    min: -200
-    max: 200
-  greenOutRedIn:
-    m_OverrideState: 0
-    m_Value: 0
-    min: -200
-    max: 200
-  greenOutGreenIn:
-    m_OverrideState: 0
-    m_Value: 100
-    min: -200
-    max: 200
-  greenOutBlueIn:
-    m_OverrideState: 0
-    m_Value: 0
-    min: -200
-    max: 200
-  blueOutRedIn:
-    m_OverrideState: 0
-    m_Value: 0
-    min: -200
-    max: 200
-  blueOutGreenIn:
-    m_OverrideState: 0
-    m_Value: 0
-    min: -200
-    max: 200
-  blueOutBlueIn:
-    m_OverrideState: 0
-    m_Value: 100
-    min: -200
-    max: 200
-  m_SelectedChannel: 0
 --- !u!114 &1359070828411649799
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -373,8 +312,8 @@ MonoBehaviour:
     m_OverrideState: 1
     m_Value: 1
   skyAmbientMode:
-    m_OverrideState: 1
-    m_Value: 1
+    m_OverrideState: 0
+    m_Value: 0
   fogType:
     m_OverrideState: 1
     m_Value: 0
@@ -456,7 +395,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 953beb541740ddc499d005ee80c9ff29, type: 3}
   m_Name: Fog
   m_EditorClassIdentifier: 
-  active: 0
+  active: 1
   m_AdvancedMode: 0
   quality:
     m_OverrideState: 1
@@ -503,7 +442,7 @@ MonoBehaviour:
     m_OverrideState: 1
     m_Value: 500
   meanFreePath:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: 5000
     min: 1
   enableVolumetricFog:
@@ -578,7 +517,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5e17fad69ea181b4483974138b566975, type: 3}
   m_Name: ScreenSpaceRefraction
   m_EditorClassIdentifier: 
-  active: 0
+  active: 1
   m_AdvancedMode: 0
   screenFadeDistance:
     m_OverrideState: 1
@@ -712,10 +651,10 @@ MonoBehaviour:
     m_Value: 0
   limitMin:
     m_OverrideState: 1
-    m_Value: 3.915663
+    m_Value: 5
   limitMax:
     m_OverrideState: 1
-    m_Value: 12.132529
+    m_Value: 13
   curveMap:
     m_OverrideState: 0
     m_Value:
@@ -814,7 +753,7 @@ MonoBehaviour:
     min: 0
     max: 100
   histogramUseCurveRemapping:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: 0
   targetMidGray:
     m_OverrideState: 0
